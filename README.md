@@ -1,2 +1,3 @@
 # Todo-App
-i can write todo app with flutter :)
+
+Flutter ile yazılmış minimalist todo app
